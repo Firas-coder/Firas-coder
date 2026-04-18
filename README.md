@@ -1,45 +1,87 @@
-# Hi there 👋, I'm Firas-coder
+# 👋 Hi, I'm Firas
 
-## 🚀 Junior Backend Developer | Django & Python
+## 🚀 Backend Developer | Django & Python
 
-I am a passionate backend developer focused on building real-world web applications using Django and Python.  
-I enjoy learning new technologies and improving my backend development skills every day.
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
-## 🧠 Skills
-
-- Python
-- Django
-- HTML & CSS
-- Bootstrap
-- SQLite
-- Git & GitHub
+🎓 Computer Science Graduate
+💻 I build backend systems using Django with a focus on clean architecture, scalability, and maintainability.
 
 ---
 
-## 📂 Projects
+## 🧠 Tech Stack
 
-Here are some of my projects:
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github" />
+</p>
 
-- 📝 Notes App (Django)
-- ✅ To-Do List App
-- 👤 User Registration System with QR Code
-- 📊 Reports System with Date Filter
-
-More projects:  
-👉 https://github.com/Firas-coder?tab=repositories
 ---
-## 🎯 Current Goal
-Improving my skills to become a professional Backend Developer and work on real-world projects.
+
+## 🔥 Featured Projects
+
+### 🛒 My Shop — Django Project
+
+Customer & purchase management system
+
+✔ Manage customers and their data
+✔ Track purchases per customer
+✔ Automatic subtotal & total calculations
+✔ Clean and simple UI
+
+**Overview:**
+A small shop simulation where each customer can have multiple purchases.
+Each purchase includes product name, price, and quantity, with dynamic total calculations.
+
+**Tech:** Python, Django, HTML/CSS, SQLite
+
 ---
-## 📫 Contact Me
-GitHub:  
-https://github.com/Firas-coder
+
+### 📊 Reports System
+
+✔ Filter data by date range
+✔ Efficient queries with Django ORM
+✔ Admin panel customization
+
 ---
-⭐ Thanks for visiting my profile!
 
+### 👤 User Authentication with QR Code
 
+✔ User registration & login
+✔ QR code generation
+✔ Secure authentication workflow
 
+---
 
+### 📝 Mini Blog
 
+✔ Create, edit, delete posts
+✔ Organized content structure
+
+---
+
+### ✅ To-Do List
+
+✔ Manage daily tasks
+✔ Mark tasks as completed
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Firas-coder&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Goal
+
+To grow as a backend developer and build scalable real-world applications.
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/Firas-coder
+
+---
+
+⭐ Thanks for visiting!
