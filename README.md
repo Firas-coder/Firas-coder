@@ -73,6 +73,17 @@ Each purchase includes product name, price, and quantity, with dynamic total cal
 ## 📈 GitHub Stats
 
 ---
+### Django Installation Quiz
+✔ Multiple-choice questions
+✔ One correct answer for each question
+✔ Score calculation using Django Sessions
+✔ Displays the final score
+✔ Shows incorrectly answered questions
+✔ Clean and simple user interface
+✔ Built with Django
+
+---
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Firas-coder&show_icons=true&theme=tokyonight" />
