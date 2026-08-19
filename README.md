@@ -91,6 +91,15 @@ Each purchase includes product name, price, and quantity, with dynamic total cal
 ✔ 🎨 Vibrant & Responsive UI: Clean, modern, and fully responsive user interfaces styled with Bootstrap 5.
 
 ---
+### 💳 Django Installment Management System
+✔ Add Customers
+✔ Auto-Calculate
+✔ Search by Name
+✔ Update Installments
+✔ Print Invoice
+
+---
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Firas-coder&show_icons=true&theme=tokyonight" />
