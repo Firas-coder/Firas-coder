@@ -100,13 +100,6 @@ Each purchase includes product name, price, and quantity, with dynamic total cal
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firas-coder&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Goal
 
 To grow as a backend developer and build scalable real-world applications.
