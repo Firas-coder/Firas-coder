@@ -83,7 +83,14 @@ Each purchase includes product name, price, and quantity, with dynamic total cal
 ✔ Built with Django
 
 ---
+### 🚀 Smart Todo-List App with QR Code Generator
+✔ 🔐 Complete Authentication System: Secure User Sign Up, Log In, and Log Out functionality.
+✔ 🛡️ Data Privacy & Protection: All views are strictly protected; users can only view, create, edit, or delete their own tasks. Your data is completely isolated from other users.
+✔ 📝 Full CRUD Operations: Create, Read, Update, and Delete tasks seamlessly (manage titles, descriptions, and completion status).
+✔ 📷 Automated QR Code Generation: Opening a task's detail page automatically generates a unique QR Code containing the task data, saves it to the media folder, and displays it dynamically.
+✔ 🎨 Vibrant & Responsive UI: Clean, modern, and fully responsive user interfaces styled with Bootstrap 5.
 
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Firas-coder&show_icons=true&theme=tokyonight" />
