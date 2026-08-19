@@ -63,8 +63,16 @@ Each purchase includes product name, price, and quantity, with dynamic total cal
 ✔ Mark tasks as completed
 
 ---
-
+### Employee Leave Balance Tracker 👨‍💼
+✔ Add Employee
+✔ Search Employee
+✔ Edit Employee
+✔ Automatic Hour-to-Day Conversion
+✔ Read-only Fields
+✔ Auto Timestamps
 ## 📈 GitHub Stats
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Firas-coder&show_icons=true&theme=tokyonight" />
