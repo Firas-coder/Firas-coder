@@ -99,7 +99,14 @@ Each purchase includes product name, price, and quantity, with dynamic total cal
 ✔ Print Invoice
 
 ---
+### 📚 Django Authors & Books Project (Multi-Step Creation Pattern)
+1. **Author Creation First:** The user creates an author, which is saved immediately to the database.
+2. **Dynamic URL Routing:** The system extracts the newly created author's unique ID and automatically redirects the user to the book addition page.
+3. **Automated Linking:** Books are programmatically linked to the correct author in the backend, completely hiding relational complexity from the user interface.
+4. **Interactive Master-Detail Dashboard:** A centralized view lists all authors alongside their associated books using Django's reverse relationship features, complete with direct links to add more books to any specific author.
 
+---
+5. 
 ## 🎯 Goal
 
 To grow as a backend developer and build scalable real-world applications.
